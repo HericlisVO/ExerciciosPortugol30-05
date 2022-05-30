@@ -16,12 +16,10 @@ programa
 		se (P > 50) {
 			E = P - 50.0
 			M = 4.00 * E		
-			escreva("Você trouxe " + P + " quilos de Tomate!\n"+
+		escreva("Você trouxe " + P + " quilos de Tomate!\n"+
 		"Você excedeu " + E + " quilos!\n"+
 		"Sua Multa é de: R$" + M + " Reais!")	
 		}senao{
-			
-	
 		
 		escreva("Você trouxe " + P + " quilos de Tomate!\n"+
 		"Você excedeu : ZERO quilos!\n"+
@@ -35,7 +33,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 188; 
+ * @POSICAO-CURSOR = 225; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
